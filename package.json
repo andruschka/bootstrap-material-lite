@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-material-lite",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lite Material Design Addon for Bootstrap 3.x",
   "main": "dist/main.css",
   "scripts": {
