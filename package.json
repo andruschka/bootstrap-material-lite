@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-material-lite",
+  "version": "1.0.0",
+  "description": "A lite Material Design Addon for Bootstrap 3.x",
+  "main": "dist/main.css",
+  "scripts": {
+    "compile": "scss src/bootstrap-m-l.scss dist/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andruschka/bootstrap-material-lite.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "material",
+    "lite",
+    "css",
+    "addon",
+    "materialdesign",
+    "design"
+  ],
+  "author": "andruschka <fritz.andrej@yahoo.de> (http://github.com/andruschka)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andruschka/bootstrap-material-lite/issues"
+  },
+  "homepage": "https://github.com/andruschka/bootstrap-material-lite#readme"
+}
